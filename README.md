@@ -23,6 +23,8 @@ Pendown(0,0)   :It will not make a line,but will place it to the origin.
 “for step in range” is used to make track.
 Forward and backward is used for directions.
 
+
+
 Given part in the program:
 For example:
 t1=Turtle()
@@ -66,6 +68,9 @@ The speed of the turtle is taken randomly by the program.
 
 3.End of the game
 The turtle with the fastest among them wins the race (1st,2nd and 3rd position) followed by the player that predicted their turtle.
+
+
+
 
 ### Requirement of the project:
 
