@@ -25,41 +25,10 @@ Forward and backward is used for directions.
 
 
 
-Given part in the program:
-For example:
-t1=Turtle()
-t1.color('coral')
-t1.shape('turtle')            //The turtle will start moving as directed//
-t1.penup()
-t1.goto(0,-15)
-t1.pendown()
-
-.
-For the track:
-for x in range(6):
-    right(90)
-    penup()
-    forward(30)                   //it will start making the five horizontal lines//
-    left(90)
-    backward(320)
-    pendown()
-    forward(320)
-
-
-for x in range(18): 
-        pendown()
-        backward(5)
-        penup()                         //it will start making the vertical lines//
-        backward(5)
-        penup()
-        left(90)
-        forward(20)
-        speed(0)
-
-
 
  
- RULES OF THE GAME: 
+ ### RULES OF THE GAME: 
+ 
 1.Start of the game
 The players decide or challenge their friends by predicting their winning turtle.
 
